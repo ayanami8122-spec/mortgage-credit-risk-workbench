@@ -1,0 +1,14 @@
+# Downloaded and generated project artifacts
+data/raw/
+data/processed/
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+streamlit.log
+streamlit-error.log
+.DS_Store

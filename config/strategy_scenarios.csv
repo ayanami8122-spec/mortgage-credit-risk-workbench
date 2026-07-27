@@ -1,0 +1,4 @@
+scenario,pass_max_pd,review_max_pd,lgd_assumption
+Conservative / 保守,0.08,0.20,0.40
+Balanced / 平衡,0.12,0.30,0.40
+Growth / 增长,0.18,0.40,0.40

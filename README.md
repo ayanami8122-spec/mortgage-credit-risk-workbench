@@ -1,8 +1,8 @@
 # Credit Risk Workbench / 信贷风险评分与策略监控平台
 
-A portfolio project for risk analytics, credit strategy and fintech roles. It turns Fannie Mae mortgage performance records into an auditable workflow: point-in-time data preparation, PD modelling, policy simulation and portfolio monitoring.
+It turns Fannie Mae mortgage performance records into an auditable workflow: point-in-time data preparation, PD modelling, policy simulation and portfolio monitoring.
 
-面向数分、风控分析与金融科技岗位的主力项目。项目将 Fannie Mae 按揭贷款表现记录转换为一条可审计工作流：时点数据加工、PD 建模、准入策略模拟与组合监控。
+项目将 Fannie Mae 按揭贷款表现记录转换为一条可审计工作流：时点数据加工、PD 建模、准入策略模拟与组合监控。
 
 ## What this project answers / 解决的问题
 
